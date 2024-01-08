@@ -1,0 +1,190 @@
+
+
+.text {
+position: absolute;
+width: 632px;
+height: 190px;
+left: 422px;
+top: 150px;
+
+font-family: 'Merriweather';
+color: #FFFFFF;
+font-style: normal;
+font-weight: 100;
+font-size: 42px;
+line-height: 95px;
+text-align: center;
+}
+.only-text {
+    position: center;
+    color: #F00;
+    font-family: Inter;
+    font-style: normal;
+    font-size: 60px;
+    font-weight: 700px;
+    line-height: normal;
+    align-items: center;
+}
+.new-year{
+    padding: 300px;
+    margin-bottom: 500px;
+    background-repeat: no-repeat;
+    width: 802.9px;
+    height: 500px; 
+    position-top: 5px;
+}
+
+.thard-image{
+bottom: 50.7%;
+width: 1320px;
+height: 600px; 
+position: absolute;
+left: 7.75%;
+right: 7.75%;
+background-repeat: no-repeat;
+top: 300.12%;
+background:  rgba(45, 9, 117, 0) 100%);
+
+
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    right: 10;
+    left:;
+    right: 15.75%;
+    padding-top: 100px; 
+    display: flex;
+    align-items: center;
+    display: flex;
+    width: 319.83px;
+    height: 464.662px; 
+}
+.email-icon {
+    position: absolute;
+    right: 10;
+    right: 30.75%;
+    padding-top: 0px; 
+    display: flex;
+    align-items: center;
+    display: flex;
+    width: 350.83px;
+    height: 30.662px; 
+}
+
+.over{
+    position: absolute;
+    right: 10;
+    left:;
+    right: 22.75%;
+    padding-top: 100px; 
+    display: flex;
+    align-items: center;
+    display: flex;
+    width: 319.83px;
+    height: 300.662px; 
+    
+    
+}
+.sarnu{
+    display:block;
+}
+.sarnum{
+    position: absolute;
+    top: 0;
+    right: 10;
+    left:;
+    left: 5.75%;
+    padding-top: 2000px; 
+    display: flex;
+    align-items: center;
+    display: flex;
+    width: 419.83px;
+    height: 464.662px; 
+   
+    
+} 
+    
+.midnight-party{
+    top: 0px;
+    position: absolute;
+    font-family: Merriweather; 
+    color: #FFF;
+    font-size: 20px;
+    left: 77px;
+}
+.size{
+    font-size: 65px;
+}
+.text-button{
+    color:black;
+    position: absolute;
+    font-family: Inter; 
+    font-size: 40px;
+}
+.color{
+    color: #F00;
+}
+.btn-primary{
+    color: #FFF;
+    border-radius: 5px;
+    background: #F00;
+    justify-content:center;
+    align-item: center;
+    position: absolute;
+    left: 570px;
+    display: inline-flex;
+    padding: 30px 60px; 
+    top: 0px;
+
+}
+.primary{
+    color:#F00;
+    justify-content:center;
+    align-item: center;
+    position: absolute;
+    left: 50px;
+    display: inline-flex;
+    padding: 300px 600px; 
+    top: 
+}
+.text-text p,h3,pre {
+    margin: 10px;
+    display:block;
+}
+.block {
+    display:flex;
+    margin: 10px;
+    gap:0%;
+}
+.function{
+   
+    text-align:center;
+}
+{
+    
+    border-radius: 16px 16px 0px 0px;
+    position: absolute;
+   
+    right: 1;
+    
+    left:;
+    right: 15.75%;
+    padding-top: 2px; 
+    display: flex;
+    align-items: center;
+    width: 300.83px;
+    height: 400.662px;
+     
+}
+ .gap-b {
+  text-align: 10px; 
+  margin-right: 2px;
+  gap: 2px;
+  padding-right: 2px;
+}
+.gap {
+    display:flex;
+    margin-bottom: 50%;
+}
