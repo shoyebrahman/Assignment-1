@@ -93,11 +93,11 @@ background:  rgba(45, 9, 117, 0) 100%);
 }
 .sarnum{
     position: absolute;
-    top: 0;
+    top: 0%;
     right: 10;
     left:;
     left: 5.75%;
-    padding-top: 2000px; 
+    padding-top: 1500px; 
     display: flex;
     align-items: center;
     display: flex;
@@ -211,7 +211,7 @@ background:  rgba(45, 9, 117, 0) 100%);
 }
 .gap {
     display:flex;
-    margin-bottom: 50%;
+    margin-bottom: %;
 }
 .adjust{
     padding:0px;
